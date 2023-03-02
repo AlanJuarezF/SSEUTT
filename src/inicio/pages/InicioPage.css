@@ -130,6 +130,7 @@ p{
 
 #about .justify-content-center {
     justify-content: center!important;
+    text-align: center;
 }
 #about i {
     color: #1b396a;
@@ -155,6 +156,7 @@ h2.section-title-heading {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.8rem;
+    text-align: center;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
